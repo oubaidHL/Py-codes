@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_3
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\wifi-password-finder-main\com.python.pydev.analysis\v2_indexcache
+study|1646654349473614500|D:\python\wifi-password-finder-main\study.py
+run|1643326291473830400|D:\python\wifi-password-finder-main\run.py
+win|1643326428976645700|D:\python\wifi-password-finder-main\win.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=D:\python\wifi-password-finder-main\win.py
+5=D:\python\wifi-password-finder-main\run.py
+1=D:\python\wifi-password-finder-main\study.py
+2=study
+6=run
+4=win
+-- END DICTIONARY
+-- START TREE 1
+8
+che|2|check_cpu_usage!1^8#5*18@check_disk_usage!1^4#5*18@
+err|1|error!3^20#1*35@
+isw|1|isWindows!3^10#1*35@
+mai|2|main!5^6#5*50@main!3^26#5*34@
+nor|1|normal!3^23#1*35@
+out|1|output!3^22#1*35@
+suc|1|success!3^21#1*35@
+war|1|warn!3^24#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

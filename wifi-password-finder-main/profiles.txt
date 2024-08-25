@@ -1,0 +1,22 @@
+
+Profils sur l'interface Wi-Fiÿ: 
+
+Profils de strat‚gies de groupe (lecture seule)
+-----------------------------------------------
+    <Aucun>
+
+Profils utilisateurs
+-------------
+    Profil Tous les utilisateurs    ÿ: Ooredoo 4G_3E3E2C
+    Profil Tous les utilisateurs    ÿ: iPhone
+    Profil Tous les utilisateurs    ÿ: TOPNET86FC9A1E
+    Profil Tous les utilisateurs    ÿ: TheBigLoser
+    Profil Tous les utilisateurs    ÿ: MAXTOR_Bouchagra
+    Profil Tous les utilisateurs    ÿ: wissem
+    Profil Tous les utilisateurs    ÿ: ISIMA-Etudiants
+    Profil Tous les utilisateurs    ÿ: ISIMA-guest
+    Profil Tous les utilisateurs    ÿ: PUBLIC
+    Profil Tous les utilisateurs    ÿ: ERRIWAK
+    Profil Tous les utilisateurs    ÿ: DESKTOP-4ORHSK4 9390
+    Profil Tous les utilisateurs    ÿ: Core-X3
+

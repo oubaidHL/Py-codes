@@ -1,0 +1,88 @@
+-- VERSION_5
+-- START DISKCACHE_3
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\A-levels-codes-main\com.python.pydev.analysis\v2_indexcache
+qeue|1643210310000000000|D:\python\A-levels-codes-main\qeue.py
+linear_search|1643210310000000000|D:\python\A-levels-codes-main\linear_search.py
+stack|1643210310000000000|D:\python\A-levels-codes-main\stack.py
+temp|1643210310000000000|D:\python\A-levels-codes-main\temp.py
+linked_list|1643210310000000000|D:\python\A-levels-codes-main\linked_list.py
+binary_search|1643210310000000000|D:\python\A-levels-codes-main\binary_search.py
+insertion_sort|1643210310000000000|D:\python\A-levels-codes-main\insertion_sort.py
+binary_tree|1643210310000000000|D:\python\A-levels-codes-main\binary_tree.py
+bubble_sort|1643210310000000000|D:\python\A-levels-codes-main\bubble_sort.py
+-- END DISKCACHE
+-- START DICTIONARY
+27
+2=linear_search
+18=stack
+12=linked_list
+15=D:\python\A-levels-codes-main\insertion_sort.py
+22=Node
+8=binary_tree
+5=D:\python\A-levels-codes-main\bubble_sort.py
+10=qeue
+21=FullTimeStudent
+4=binary_search
+20=PartTimeStudent
+7=D:\python\A-levels-codes-main\binary_tree.py
+25=FullTimeStudent.__init__
+3=D:\python\A-levels-codes-main\binary_search.py
+6=bubble_sort
+24=PartTimeStudent.__init__
+13=D:\python\A-levels-codes-main\temp.py
+23=Student.__init__
+14=temp
+17=D:\python\A-levels-codes-main\stack.py
+27=Node.insert
+26=Node.__init__
+19=Student
+11=D:\python\A-levels-codes-main\linked_list.py
+9=D:\python\A-levels-codes-main\qeue.py
+1=D:\python\A-levels-codes-main\linear_search.py
+16=insertion_sort
+-- END DICTIONARY
+-- START TREE 1
+29
+a_l|2|a_list!1^15#1*19@a_list!3^27#1*35@
+bin|1|binary_search!3^3#5*34@
+bub|1|bubble_sort!5^3#5*50@
+dat|1|data!7^76#1*67@
+deq|1|dequeue!9^14#5*82@
+ele|2|element!3^36#13*35@element!1^24#13*19@
+enq|1|enqueue!9^3#5*82@
+fin|1|find!11^7#5*98@
+ful|1|FullTimeStudent!13^20#7*113@
+ino|1|inorder!7^51#5*66@
+ins|1|insertion_sort!15^3#5*130@
+ite|1|item!11^22#1*99@
+len|2|lenth!5^22#13*51@lenth!15^26#13*131@
+lin|1|linear_search!1^3#5*18@
+myl|2|myLinkedListPointer!11^4#1*99@myLinkedList!11^3#1*99@
+nod|2|Node!7^3#7*65@node!7^102#13*67@
+nul|1|nullPointer!11^6#1*99@
+opt|5|opt!1^22#9*19@opt!7^100#9*67@opt!3^34#9*35@opt!15^24#9*131@opt!5^20#9*51@
+par|1|PartTimeStudent!13^13#7*113@
+pop|1|pop!17^13#5*146@
+pos|1|postorder!7^67#5*66@
+pre|1|preorder!7^59#5*66@
+pus|1|push!17^3#5*146@
+res|1|result!11^23#1*99@
+roo|1|root!7^75#1*67@
+sta|1|startPointer!11^5#1*99@
+stu|2|student!13^27#1*115@Student!13^3#7*113@
+t|1|t!7^105#13*67@
+use|2|user_list!5^12#1*51@user_list!15^16#1*131@
+-- END TREE
+-- START TREE 2
+10
+__i|4|__init__!19&13^4#9*114@__init__!20&13^14#9*114@__init__!21&13^21#9*114@__init__!22&7^5#9*66@
+dat|1|dateOfBirth!23&13^6#9*115@
+dis|1|displayExamMark!19&13^9#9*114@
+exa|3|examMark!23&13^7#9*115@examMark!24&13^17#9*115@examMark!25&13^24#9*115@
+ins|1|insert!22&7^11#9*66@
+key|2|key!26&7^6#9*67@key!27&7^15#13*67@
+lef|2|left!26&7^7#9*67@left!27&7^26#17*67@
+nam|3|name!23&13^5#9*115@name!24&13^16#9*115@name!25&13^23#9*115@
+rig|2|right!26&7^8#9*67@right!27&7^31#17*67@
+sea|1|search!22&7^34#9*66@
+-- END TREE

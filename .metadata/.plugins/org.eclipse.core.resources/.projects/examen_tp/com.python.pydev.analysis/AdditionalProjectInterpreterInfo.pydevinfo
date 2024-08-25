@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_3
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\examen_tp\com.python.pydev.analysis\v2_indexcache
+script.find_error|1646744840016109300|D:\python\examen_tp\script\find_error.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=script.find_error
+1=D:\python\examen_tp\script\find_error.py
+-- END DICTIONARY
+-- START TREE 1
+4
+err|1|error_search!1^6#5*18@
+fil|1|file_output!1^26#5*18@
+log|1|log_file!1^36#5*19@
+ret|1|returned_errors!1^37#5*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

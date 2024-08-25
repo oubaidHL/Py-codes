@@ -1,0 +1,28 @@
+-- VERSION_5
+-- START DISKCACHE_3
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\training\com.python.pydev.analysis\v2_indexcache
+first|1643232639532549500|D:\python\training\first.py
+second|1643313601406744000|D:\python\training\second.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=D:\python\training\second.py
+2=first
+1=D:\python\training\first.py
+4=second
+-- END DICTIONARY
+-- START TREE 1
+9
+are|1|area_triangle!1^20#5*18@
+con|2|convert_second_V2!1^35#5*18@convert_second_V1!1^28#5*18@
+for|3|for_V2!3^25#5*34@for_V3!3^29#5*34@for_V1!3^21#5*34@
+gre|1|greeting!1^16#5*18@
+ide|1|identity!1^50#5*18@
+is_|1|is_even!1^62#5*18@
+lis|1|liste_V1!3^37#5*34@
+pri|1|printing!1^9#5*18@
+rep|1|repeat!3^10#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
